@@ -42,7 +42,3 @@ Full stack developer based in Pune, India. I build and ship products — AI tool
 
 <p align="left">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=Siddhesh-source&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhesh-source&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
-</p>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Siddhesh-source&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
