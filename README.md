@@ -1,18 +1,10 @@
-<div align="center">
+# Hi, I'm Siddhesh 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=440&lines=Hi%2C+I'm+Siddhesh.;Full+Stack+Developer.;I+build+%26+ship+products.)](https://git.io/typing-svg)
-
-<sub>Pune, India &nbsp;·&nbsp; TypeScript · Python · React · AWS</sub>
-
-<br/>
+**Full Stack Developer** · Pune, India
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddhesh-chaudhari3011)
 [![X](https://img.shields.io/badge/X-black?style=flat-square&logo=x&logoColor=white)](https://x.com/csiddhesh3011)
 ![Views](https://komarev.com/ghpvc/?username=Siddhesh-source&style=flat-square&color=grey&label=views)
-
-</div>
-
----
 
 Full stack developer who ships — AI tools, fintech systems, edtech platforms. Comfortable across the entire stack from DB to deployment.
 
