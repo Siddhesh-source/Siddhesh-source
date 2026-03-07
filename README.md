@@ -26,6 +26,6 @@ Full stack developer who ships — AI tools, fintech systems, edtech platforms. 
 | [Pre-Delinquency Engine](https://github.com/Siddhesh-source/hackathon-1) | Predicts loan defaults 30 days early · 85% recall |
 | [Smart Hospital](https://github.com/Siddhesh-source/Smart-hospital) | Hospital management system |
 | [Decivue](https://github.com/Siddhesh-source/Decivue) | Decision tracker with confidence decay |
-| [AI Proctor](https://github.com/Siddhesh-source/ai-proctor-) | AI-based exam proctoring backend |
-| [Driver Drowsiness](https://github.com/Siddhesh-source/driver) | Real-time driver safety detection |
+| [AI Proctor](https://github.com/Siddhesh-source/ai-proctor-) | AI-based exam proctoring Solution |
+| [Driver Drowsiness](https://github.com/Siddhesh-source/driver) | Real-time Driver Drowsiness Detection |
 | [Personal Finance](https://github.com/Siddhesh-source/personal_finance) | Full-stack finance tracker |
