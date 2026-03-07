@@ -22,7 +22,7 @@ Full stack developer who ships — AI tools, fintech systems, edtech platforms. 
 
 | Project | |
 |---|---|
-| [StudySathi AI](https://github.com/Siddhesh-source/StudySathi) | AI study companion for JEE/NEET/UPSC · [live ↗](https://crypto-isotope-483913-f4.web.app) |
+| [StudySathi AI](https://github.com/Siddhesh-source/StudySathi) | AI study companion for JEE/NEET/UPSC ·
 | [Pre-Delinquency Engine](https://github.com/Siddhesh-source/hackathon-1) | Predicts loan defaults 30 days early · 85% recall |
 | [Smart Hospital](https://github.com/Siddhesh-source/Smart-hospital) | Hospital management system |
 | [Decivue](https://github.com/Siddhesh-source/Decivue) | Decision tracker with confidence decay |
