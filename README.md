@@ -37,8 +37,3 @@ Full stack developer based in Pune, India. I build and ship products — AI tool
 | [Personal Finance](https://github.com/Siddhesh-source/personal_finance) | Full-stack personal finance tracker |
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Siddhesh-source&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
