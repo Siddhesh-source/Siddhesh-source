@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Siddhesh-source/Siddhesh-source/main/assets/banner.svg?v=5" alt="Siddhesh Chaudhari. Software engineer. SDE first, with depth in AI, ML and infra." width="100%"/>
+<img src="https://raw.githubusercontent.com/Siddhesh-source/Siddhesh-source/main/assets/banner.svg?v=6" alt="Siddhesh Chaudhari. Software engineer. SDE first, with depth in AI, ML and infra." width="100%"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0e1319?style=flat-square&logo=linkedin&logoColor=7fb7ff&labelColor=0e1319&color=243038)](https://www.linkedin.com/in/siddhesh-chaudhari3011)
 [![X](https://img.shields.io/badge/X-0e1319?style=flat-square&logo=x&logoColor=7fb7ff&labelColor=0e1319&color=243038)](https://x.com/csiddhesh3011)
@@ -31,7 +31,7 @@ Full stack, with real depth in AI, ML and infra, on strong fundamentals in DBMS,
 
 ## Experience and education
 
-| | | |
+| Where | What | Stack |
 |---|---|---|
 | **InnovateMore** (Rink9) | Backend service API and web app | `Spring Boot` `Next.js` `TypeScript` |
 | **TaxBharo** | ITR filing automation, backend-to-frontend integration | `Python` `Java` `Playwright` |
@@ -39,7 +39,7 @@ Full stack, with real depth in AI, ML and infra, on strong fundamentals in DBMS,
 
 ## Stack
 
-| | |
+| Area | Tools |
 |---|---|
 | **Languages** | `Python` `Java` `TypeScript` `JavaScript` `Go` `C` `C++` `Kotlin` `SQL` |
 | **Web and backend** | `React` `Next.js` `Spring Boot` `FastAPI` `Django` `Node.js` `Tailwind` |
