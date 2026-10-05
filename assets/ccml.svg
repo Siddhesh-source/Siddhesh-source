@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="138" viewBox="0 0 440 138" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#161b22"/><stop offset="1" stop-color="#0d1117"/></linearGradient></defs>
+<rect x=".5" y=".5" width="439" height="137" rx="10" fill="url(#g)" stroke="#30363d"/>
+<rect x="0" y="12" width="4" height="114" rx="2" fill="#76b900"/>
+<circle cx="418" cy="22" r="4" fill="#76b900"/>
+<text x="20" y="30" font-size="17" font-weight="700" fill="#f0f6fc">ccml</text>
+<text x="20" y="46" font-size="10" font-weight="600" letter-spacing="1.2" fill="#76b900" font-family="ui-monospace,Menlo,Consolas,monospace">GPU / ML INFRA</text>
+<text x="20" y="68" font-size="12" fill="#9da7b3">Hand-written CUDA kernels (matmul, layernorm, softmax)</text>
+<text x="20" y="85" font-size="12" fill="#9da7b3">with a C ABI, benchmarked against PyTorch.</text>
+<rect x="20" y="106" width="44" height="20" rx="10" fill="#76b900" fill-opacity=".14" stroke="#76b900" stroke-opacity=".45"/>
+<text x="42" y="120" font-size="10.5" text-anchor="middle" fill="#76b900" font-family="ui-monospace,Menlo,Consolas,monospace">CUDA</text>
+<rect x="70.4" y="106" width="38" height="20" rx="10" fill="#76b900" fill-opacity=".14" stroke="#76b900" stroke-opacity=".45"/>
+<text x="89" y="120" font-size="10.5" text-anchor="middle" fill="#76b900" font-family="ui-monospace,Menlo,Consolas,monospace">C++</text>
+<rect x="114.2" y="106" width="58" height="20" rx="10" fill="#76b900" fill-opacity=".14" stroke="#76b900" stroke-opacity=".45"/>
+<text x="143" y="120" font-size="10.5" text-anchor="middle" fill="#76b900" font-family="ui-monospace,Menlo,Consolas,monospace">Python</text>
+</svg>
