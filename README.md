@@ -1,54 +1,51 @@
 <div align="center">
 
-# Siddhesh Chaudhari
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:0ea5e9,100:8b5cf6&text=Siddhesh%20Chaudhari&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=SDE%20%C2%B7%20Full%20stack%20%C2%B7%20AI%2FML%20%C2%B7%20Infra&descSize=16&descAlignY=60" width="100%"/>
 
-**SDE · end-to-end engineering across the stack, down to the internals**
-AI · ML · Infra  |  Distributed systems, scaling & efficient system design
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=1200&color=38BDF8&center=true&vCenter=true&width=640&height=30&lines=End-to-end+engineering+across+the+stack;Distributed+systems%2C+scaling+%26+efficient+design;Down+to+the+internals%3A+kernels%2C+CUDA%2C+crypto" alt="tagline"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddhesh-chaudhari3011)
-[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/csiddhesh3011)
-![Location](https://img.shields.io/badge/Pune%2C%20India-555?style=flat-square&logo=googlemaps&logoColor=white)
-![Views](https://komarev.com/ghpvc/?username=Siddhesh-source&style=flat-square&color=555&label=views)
+<a href="https://www.linkedin.com/in/siddhesh-chaudhari3011"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://x.com/csiddhesh3011"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a> <img src="https://img.shields.io/badge/Pune%2C_India-1f2937?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 
 </div>
 
-## 👨‍💻 About
+I build whole products, from UI and API to database and deployment, and I want to know what runs underneath them. My focus is **distributed systems, scaling and efficient system design**, with AI, ML and infra on top.
 
-I ship whole products, from the UI and API to the database and deployment, and I like knowing what happens underneath them: kernels, GPU kernels, crypto protocols, caches and queues.
+<div align="center">
 
-| | |
-|---|---|
-| **Build** | Full-stack apps, ML/AI systems, real-time backends |
-| **Go deep** | OS internals, CUDA, encrypted messaging, concurrency |
-| **Care about** | Correctness under load, scaling, simple and efficient designs |
-| **Now** | Whispr (E2EE messenger) · NexusOS · agentic AI & LLM inference |
+![Distributed](https://img.shields.io/badge/Distributed_systems-ef4444?style=flat-square)
+![Scaling](https://img.shields.io/badge/Scaling_%26_performance-f97316?style=flat-square)
+![Internals](https://img.shields.io/badge/OS_%26_GPU_internals-facc15?style=flat-square&labelColor=555)
+![AI](https://img.shields.io/badge/AI_%2F_ML-22c55e?style=flat-square)
+![Full](https://img.shields.io/badge/Full_stack-0ea5e9?style=flat-square)
+![Sec](https://img.shields.io/badge/Applied_crypto-a78bfa?style=flat-square)
 
-## 💼 Work
+</div>
 
-| Org | What I built | Stack |
-|---|---|---|
-| **[InnovateMore](https://github.com/innovatemore)** · Rink9 | Backend service API and web app, end to end | Spring Boot · Next.js · TypeScript |
-| **TaxBharo** | Automation for ITR filings, plus backend-to-frontend integration | Python · Java · Playwright |
+## Work
 
-## 🛠️ Stack
+<table>
+<tr><td width="50%"><a href="https://github.com/innovatemore"><img src="https://raw.githubusercontent.com/Siddhesh-source/Siddhesh-source/main/assets/rink9.svg" alt="Rink9" width="100%"/></a></td><td width="50%"><a href="https://github.com/Siddhesh-source"><img src="https://raw.githubusercontent.com/Siddhesh-source/Siddhesh-source/main/assets/taxbharo.svg" alt="TaxBharo" width="100%"/></a></td></tr>
+</table>
 
-| | |
-|---|---|
-| **Languages** | `Python` `Java` `TypeScript` `JavaScript` `Go` `C` `C++` `Kotlin` `SQL` |
-| **Web** | `React` `Next.js` `Tailwind` `Node.js` `Express` `Spring Boot` `FastAPI` `Django` |
-| **Systems & infra** | `Redis` `PostgreSQL` `MongoDB` `Docker` `AWS` `GCP` `Firebase` `WebSockets` `Playwright` `CUDA` |
-| **AI / ML** | `PyTorch` `YOLO` `LLM agents` `NLP` |
+## Stack
 
-## 📌 Featured
+<div align="center">
 
-| Project | What it demonstrates | Stack |
-|---|---|---|
-| [**Whispr**](https://github.com/Siddhesh-source/whispr) | E2EE Android messenger: libsignal (PQXDH, Double Ratchet), encrypted groups and media, server that only sees ciphertext. *Open-sourcing soon.* | Kotlin · Go · PostgreSQL · S3 |
-| [**NexusOS**](https://github.com/Siddhesh-source/NexusOS--a-custom-operating-system) | x86-64 kernel from scratch: memory management, preemptive scheduler, 223 in-kernel boot tests. *Phase 5 of 10.* | C · NASM |
-| [**ccml**](https://github.com/Siddhesh-source/custom-cuda-kernel-library-for-ml-operators) | Hand-written CUDA kernels (matmul, layernorm, softmax) with a C ABI, validated and benchmarked against PyTorch | CUDA · C++ |
-| [**Flash Sale**](https://github.com/Siddhesh-source/flash_sale) | Zero-oversell inventory under 10k+ concurrent requests: atomic Redis Lua scripts, Postgres as source of truth, drift reconciliation | Go · Redis · PostgreSQL |
-| [**Quatarly**](https://github.com/Siddhesh-source/Smart-Exam-Proctor) | End-to-end exam platform: YOLO-based proctoring, live WebSocket monitoring, NLP grading, role-based dashboards | FastAPI · PostgreSQL · JS |
-| [**Trading Engine**](https://github.com/Siddhesh-source/Algorithmic-Trading-Engine) | Explainable real-time trading signals for Indian equities, streamed over Redis pub/sub and SSE | FastAPI · React · Redis |
+<img src="https://skillicons.dev/icons?i=py,java,ts,js,go,c,cpp,kotlin&perline=14"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,spring,fastapi,django&perline=14"/>
+<img src="https://skillicons.dev/icons?i=redis,postgres,mongodb,docker,aws,gcp,firebase,linux,git,pytorch&perline=14"/>
+
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white) ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white) ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black)
+
+</div>
+
+## Featured
+
+<table>
+<tr><td width="50%"><a href="https://github.com/Siddhesh-source/whispr"><img src="https://raw.githubusercontent.com/Siddhesh-source/Siddhesh-source/main/assets/whispr.svg" alt="Whispr" width="100%"/></a></td><td width="50%"><a href="https://github.com/Siddhesh-source/NexusOS--a-custom-operating-system"><img src="https://raw.githubusercontent.com/Siddhesh-source/Siddhesh-source/main/assets/nexusos.svg" alt="NexusOS" width="100%"/></a></td></tr>
+<tr><td width="50%"><a href="https://github.com/Siddhesh-source/custom-cuda-kernel-library-for-ml-operators"><img src="https://raw.githubusercontent.com/Siddhesh-source/Siddhesh-source/main/assets/ccml.svg" alt="ccml" width="100%"/></a></td><td width="50%"><a href="https://github.com/Siddhesh-source/flash_sale"><img src="https://raw.githubusercontent.com/Siddhesh-source/Siddhesh-source/main/assets/flashsale.svg" alt="Flash Sale" width="100%"/></a></td></tr>
+<tr><td width="50%"><a href="https://github.com/Siddhesh-source/Smart-Exam-Proctor"><img src="https://raw.githubusercontent.com/Siddhesh-source/Siddhesh-source/main/assets/quatarly.svg" alt="Quatarly" width="100%"/></a></td><td width="50%"><a href="https://github.com/Siddhesh-source/Algorithmic-Trading-Engine"><img src="https://raw.githubusercontent.com/Siddhesh-source/Siddhesh-source/main/assets/trading.svg" alt="Trading Engine" width="100%"/></a></td></tr>
+</table>
 
 <details>
 <summary><b>More projects</b></summary>
@@ -64,11 +61,15 @@ I ship whole products, from the UI and API to the database and deployment, and I
 
 </details>
 
-## 📊 Activity
+## Stats
 
 <div align="center">
 
-<img height="140" src="https://github-readme-stats.vercel.app/api?username=Siddhesh-source&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&hide_title=true" />
-<img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhesh-source&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide_title=true" />
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=Siddhesh-source&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&hide_title=true&bg_color=0d1117"/>
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhesh-source&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide_title=true&bg_color=0d1117"/>
+<br/>
+<img src="https://streak-stats.demolab.com?user=Siddhesh-source&theme=tokyonight&hide_border=true&background=0d1117" height="150"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:0ea5e9,100:8b5cf6&section=footer" width="100%"/>
 
 </div>
