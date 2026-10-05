@@ -24,7 +24,7 @@ I build whole products, from UI and API to database and deployment, and I want t
 ## Work
 
 <table>
-<tr><td width="50%"><a href="https://github.com/innovatemore"><img src="https://raw.githubusercontent.com/Siddhesh-source/Siddhesh-source/main/assets/rink9.svg?v=2" alt="Rink9" width="100%"/></a></td><td width="50%"><a href="https://github.com/Siddhesh-source"><img src="https://raw.githubusercontent.com/Siddhesh-source/Siddhesh-source/main/assets/taxbharo.svg?v=2" alt="TaxBharo" width="100%"/></a></td></tr>
+<tr><td width="50%"><a href="https://github.com/innovatemore"><img src="https://raw.githubusercontent.com/Siddhesh-source/Siddhesh-source/main/assets/rink9.svg?v=3" alt="Rink9" width="100%"/></a></td><td width="50%"><a href="https://github.com/Siddhesh-source"><img src="https://raw.githubusercontent.com/Siddhesh-source/Siddhesh-source/main/assets/taxbharo.svg?v=3" alt="TaxBharo" width="100%"/></a></td></tr>
 </table>
 
 ## Stack
@@ -42,9 +42,9 @@ I build whole products, from UI and API to database and deployment, and I want t
 ## Featured
 
 <table>
-<tr><td width="50%"><a href="https://github.com/Siddhesh-source/whispr"><img src="https://raw.githubusercontent.com/Siddhesh-source/Siddhesh-source/main/assets/whispr.svg?v=2" alt="Whispr" width="100%"/></a></td><td width="50%"><a href="https://github.com/Siddhesh-source/NexusOS--a-custom-operating-system"><img src="https://raw.githubusercontent.com/Siddhesh-source/Siddhesh-source/main/assets/nexusos.svg?v=2" alt="NexusOS" width="100%"/></a></td></tr>
-<tr><td width="50%"><a href="https://github.com/Siddhesh-source/custom-cuda-kernel-library-for-ml-operators"><img src="https://raw.githubusercontent.com/Siddhesh-source/Siddhesh-source/main/assets/ccml.svg?v=2" alt="ccml" width="100%"/></a></td><td width="50%"><a href="https://github.com/Siddhesh-source/flash_sale"><img src="https://raw.githubusercontent.com/Siddhesh-source/Siddhesh-source/main/assets/flashsale.svg?v=2" alt="Flash Sale" width="100%"/></a></td></tr>
-<tr><td width="50%"><a href="https://github.com/Siddhesh-source/Smart-Exam-Proctor"><img src="https://raw.githubusercontent.com/Siddhesh-source/Siddhesh-source/main/assets/quatarly.svg?v=2" alt="Quatarly" width="100%"/></a></td><td width="50%"><a href="https://github.com/Siddhesh-source/Algorithmic-Trading-Engine"><img src="https://raw.githubusercontent.com/Siddhesh-source/Siddhesh-source/main/assets/trading.svg?v=2" alt="Trading Engine" width="100%"/></a></td></tr>
+<tr><td width="50%"><a href="https://github.com/Siddhesh-source/whispr"><img src="https://raw.githubusercontent.com/Siddhesh-source/Siddhesh-source/main/assets/whispr.svg?v=3" alt="Whispr" width="100%"/></a></td><td width="50%"><a href="https://github.com/Siddhesh-source/NexusOS--a-custom-operating-system"><img src="https://raw.githubusercontent.com/Siddhesh-source/Siddhesh-source/main/assets/nexusos.svg?v=3" alt="NexusOS" width="100%"/></a></td></tr>
+<tr><td width="50%"><a href="https://github.com/Siddhesh-source/custom-cuda-kernel-library-for-ml-operators"><img src="https://raw.githubusercontent.com/Siddhesh-source/Siddhesh-source/main/assets/ccml.svg?v=3" alt="ccml" width="100%"/></a></td><td width="50%"><a href="https://github.com/Siddhesh-source/flash_sale"><img src="https://raw.githubusercontent.com/Siddhesh-source/Siddhesh-source/main/assets/flashsale.svg?v=3" alt="Flash Sale" width="100%"/></a></td></tr>
+<tr><td width="50%"><a href="https://github.com/Siddhesh-source/Smart-Exam-Proctor"><img src="https://raw.githubusercontent.com/Siddhesh-source/Siddhesh-source/main/assets/quatarly.svg?v=3" alt="Quatarly" width="100%"/></a></td><td width="50%"><a href="https://github.com/Siddhesh-source/Algorithmic-Trading-Engine"><img src="https://raw.githubusercontent.com/Siddhesh-source/Siddhesh-source/main/assets/trading.svg?v=3" alt="Trading Engine" width="100%"/></a></td></tr>
 </table>
 
 <details>
