@@ -23,13 +23,20 @@ I ship whole products, from the UI and API to the database and deployment, and I
 | **Care about** | Correctness under load, scaling, simple and efficient designs |
 | **Now** | Whispr (E2EE messenger) · NexusOS · agentic AI & LLM inference |
 
+## 💼 Work
+
+| Org | What I built | Stack |
+|---|---|---|
+| **[InnovateMore](https://github.com/innovatemore)** · Rink9 | Backend service API and web app, end to end | Spring Boot · Next.js · TypeScript |
+| **TaxBharo** | Automation for ITR filings, plus backend-to-frontend integration | Python · Java · Playwright |
+
 ## 🛠️ Stack
 
 | | |
 |---|---|
-| **Languages** | `Python` `TypeScript` `JavaScript` `Go` `C` `C++` `Kotlin` `SQL` |
-| **Web** | `React` `Tailwind` `Node.js` `Express` `FastAPI` `Django` |
-| **Systems & infra** | `Redis` `PostgreSQL` `MongoDB` `Docker` `AWS` `GCP` `Firebase` `WebSockets` `CUDA` |
+| **Languages** | `Python` `Java` `TypeScript` `JavaScript` `Go` `C` `C++` `Kotlin` `SQL` |
+| **Web** | `React` `Next.js` `Tailwind` `Node.js` `Express` `Spring Boot` `FastAPI` `Django` |
+| **Systems & infra** | `Redis` `PostgreSQL` `MongoDB` `Docker` `AWS` `GCP` `Firebase` `WebSockets` `Playwright` `CUDA` |
 | **AI / ML** | `PyTorch` `YOLO` `LLM agents` `NLP` |
 
 ## 📌 Featured
